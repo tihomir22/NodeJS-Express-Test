@@ -1,0 +1,25 @@
+{
+  "name": "servernodejstest",
+  "version": "1.0.0",
+  "description": "dembow loco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quiero",
+    "ir",
+    "a",
+    "cagar",
+    "pero",
+    "el",
+    "baño",
+    "esta",
+    "ocupado"
+  ],
+  "author": "tihomir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
